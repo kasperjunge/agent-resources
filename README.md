@@ -4,10 +4,6 @@
 
 **The package manager for AI agents.**
 
-> [!WARNING]
-> agr is no longer maintained. Use [skills.sh](https://skills.sh/) and its
-> [`skills` CLI](https://skills.sh/docs/cli) for skill management instead.
-
 For teams who want to manage agent skills like software packages — the way npm,
 PyPI, and uv manage code. Install skills from any Git repo into Claude Code,
 Cursor, Codex, and more, then share them across your team like real dependencies.
