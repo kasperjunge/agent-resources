@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "skills": {
+    "agr-release": {
+      "source": "/Users/kasperjunge/Agent/Code/computerlovetech/public/agr/skills/agr-release",
+      "sourceType": "local",
+      "computedHash": "400f539ac595d37ea338e4b673cead73e8d050ec9ef775980f5fd2cd4e619005"
+    },
+    "code-review": {
+      "source": "maragudk/skills",
+      "sourceType": "github",
+      "skillPath": "code-review/SKILL.md",
+      "computedHash": "991fc1c0e2917a1077bddca62e78c598666f6aa9b09c733c36b5ecb42e3aa68d"
+    },
+    "playwright-cli": {
+      "source": "microsoft/playwright-cli",
+      "sourceType": "github",
+      "skillPath": "skills/playwright-cli/SKILL.md",
+      "computedHash": "f602822b51bcb6d033749c60731b8f1e80f308222fcb2e4af551905a817c6e08"
+    }
+  }
+}
