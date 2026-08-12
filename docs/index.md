@@ -1,5 +1,10 @@
 # Get started
 
+!!! important
+    agr is kept for educational purposes and is not actively maintained. You
+    are welcome to study and reuse the code, but should not expect updates,
+    support, or production-readiness.
+
 Your team shouldn't be copying AI skill files around by hand. agr gives you a
 shared, versioned skill environment: one manifest, one sync command, the same
 setup on every machine and every tool.
