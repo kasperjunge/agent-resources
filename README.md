@@ -4,6 +4,11 @@
 
 **The package manager for AI agents.**
 
+> [!IMPORTANT]
+> This repository is kept for educational purposes and is not actively
+> maintained. You are welcome to study and reuse the code, but should not expect
+> updates, support, or production-readiness.
+
 For teams who want to manage agent skills like software packages — the way npm,
 PyPI, and uv manage code. Install skills from any Git repo into Claude Code,
 Cursor, Codex, and more, then share them across your team like real dependencies.
